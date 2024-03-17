@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T18:08:58.128Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sMQG317k6mC_QURkafjl" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-17T17:40:41.190Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7SPTd8wR6SrY4P2dTGPk" version="24.0.7" type="github" pages="2">
   <diagram id="0v1vDSCeKUBE3YXkDDrm" name="Page-1">
-    <mxGraphModel dx="1434" dy="-307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="-647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,104 +609,263 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-1" value="&lt;font face=&quot;Myriad Pro Condensed&quot;&gt;A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-1" value="&lt;font face=&quot;Myriad Pro Condensed&quot;&gt;A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="173.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-2" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="240.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-2" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="253.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-3" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="360.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-3" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="373.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-4" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="280.04999999999995" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-4" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="293.04999999999995" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-5" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="320.04999999999995" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-5" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="333.04999999999995" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-6" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="200.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-6" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="213.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-7" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="400.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-7" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="413.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-8" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="480.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-8" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="493.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-9" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="600.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-9" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="613.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-10" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="520.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-10" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="533.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-11" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="560.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-11" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="573.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-12" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="440.05" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-12" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="453.05" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-13" value="&lt;font face=&quot;Myriad Pro Condensed&quot;&gt;A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-13" value="&lt;font face=&quot;Myriad Pro Condensed&quot;&gt;A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="173.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-14" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="320.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-14" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="333.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-15" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="520.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-15" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="533.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-16" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-16" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="373" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-17" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="480.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-17" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="493.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-18" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="200.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-18" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="213.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-19" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="240.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-19" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="253.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-20" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="400.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-20" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="413.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-21" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="600.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-21" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="613.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-22" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="440.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-22" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="453.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-23" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="560.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-23" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="573.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-24" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
-          <mxGeometry x="280.05" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-24" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" parent="1" vertex="1">
+          <mxGeometry x="293.05" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-25" value="&lt;font color=&quot;#000000&quot;&gt;HTTP/1.1 e HTTP/2 sofrem com bloqueio TCP Head-of-Line&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1499" width="320.05" height="20" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-25" value="&lt;font color=&quot;#000000&quot;&gt;HTTP/1.1 e HTTP/2 sofrem com bloqueio TCP Head-of-Line&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" parent="1" vertex="1">
+          <mxGeometry x="173" y="1230" width="320.05" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-26" value="" style="shape=cross;whiteSpace=wrap;html=1;labelBackgroundColor=#D8F2E5;strokeColor=#333333;strokeWidth=1;fillColor=#FF3333;fontFamily=Myriad Pro Condensed;fontSize=12;align=center;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1600" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-26" value="" style="shape=cross;whiteSpace=wrap;html=1;labelBackgroundColor=#D8F2E5;strokeColor=#333333;strokeWidth=1;fillColor=#FF3333;fontFamily=Myriad Pro Condensed;fontSize=12;align=center;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="253" y="1331" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-27" value="" style="shape=cross;whiteSpace=wrap;html=1;labelBackgroundColor=#D8F2E5;strokeColor=#333333;strokeWidth=1;fillColor=#FF3333;fontFamily=Myriad Pro Condensed;fontSize=12;align=center;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="241.17" y="1520" width="40" height="40" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-27" value="" style="shape=cross;whiteSpace=wrap;html=1;labelBackgroundColor=#D8F2E5;strokeColor=#333333;strokeWidth=1;fillColor=#FF3333;fontFamily=Myriad Pro Condensed;fontSize=12;align=center;rotation=45;" parent="1" vertex="1">
+          <mxGeometry x="254.17" y="1251" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-28" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-28" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="1570" as="sourcePoint" />
-            <mxPoint x="640" y="1570" as="targetPoint" />
+            <mxPoint x="293" y="1301" as="sourcePoint" />
+            <mxPoint x="653" y="1301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-29" value="&lt;font color=&quot;#000000&quot;&gt;Tudo precisa esperar pela retransmissão do pacote #3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1570" width="360" height="20" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-29" value="&lt;font color=&quot;#000000&quot;&gt;Tudo precisa esperar pela retransmissão do pacote #3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" parent="1" vertex="1">
+          <mxGeometry x="293" y="1301" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-30" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-30" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="1651" as="sourcePoint" />
-            <mxPoint x="640" y="1651" as="targetPoint" />
+            <mxPoint x="293" y="1382" as="sourcePoint" />
+            <mxPoint x="653" y="1382" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R09Ll9fEIL8QTAAJE88-31" value="&lt;font color=&quot;#000000&quot;&gt;Tudo precisa esperar pela retransmissão do pacote #3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1651" width="360" height="20" as="geometry" />
+        <mxCell id="1R09Ll9fEIL8QTAAJE88-31" value="&lt;font color=&quot;#000000&quot;&gt;Tudo precisa esperar pela retransmissão do pacote #3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" parent="1" vertex="1">
+          <mxGeometry x="293" y="1382" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-32" value="&lt;font face=&quot;Myriad Pro Condensed&quot;&gt;A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="173.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-33" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="253.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-34" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="373.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-35" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="293.04999999999995" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-36" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="333.04999999999995" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-37" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="213.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-38" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="413.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-39" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="493.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-40" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="613.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-41" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="533.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-42" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="573.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-43" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="453.05" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-44" value="&lt;font color=&quot;#000000&quot;&gt;HTTP/3 não sofre bloqueio Head-of-Line por causa do QUIC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
+          <mxGeometry x="173" y="1680" width="347" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-45" value="" style="shape=cross;whiteSpace=wrap;html=1;labelBackgroundColor=#D8F2E5;strokeColor=#333333;strokeWidth=1;fillColor=#FF3333;fontFamily=Myriad Pro Condensed;fontSize=12;align=center;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="254.22" y="1703" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-46" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="493.05" y="1760" as="sourcePoint" />
+            <mxPoint x="573.05" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-47" value="&lt;font color=&quot;#000000&quot;&gt;Apenas os dados do stream B precisam aguardar a retransmissão do pacote #3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1770" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-48" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.74" y="1760" as="sourcePoint" />
+            <mxPoint x="331.05" y="1760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330.74" y="1760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-49" value="&lt;font face=&quot;Myriad Pro Condensed&quot;&gt;A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="173.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-50" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="253.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-51" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="373.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-52" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="293.04999999999995" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-53" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="333.04999999999995" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-54" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="213.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-55" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="413.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-56" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="493.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-57" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="613.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-58" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="533.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-59" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="573.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-60" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="453.05" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-61" value="&lt;font face=&quot;Myriad Pro Condensed&quot;&gt;A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="173.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-62" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="333.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-63" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="533.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-64" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="373" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-65" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="493.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-66" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="213.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-67" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="253.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-68" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="413.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-69" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="613.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-70" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="453.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-71" value="C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="573.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-72" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Myriad Pro Condensed;" vertex="1" parent="1">
+          <mxGeometry x="293.05" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-73" value="&lt;font color=&quot;#000000&quot;&gt;HTTP/1.1 e HTTP/2 sofrem com bloqueio TCP Head-of-Line&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
+          <mxGeometry x="173" y="1500" width="320.05" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-74" value="" style="shape=cross;whiteSpace=wrap;html=1;labelBackgroundColor=#D8F2E5;strokeColor=#333333;strokeWidth=1;fillColor=#FF3333;fontFamily=Myriad Pro Condensed;fontSize=12;align=center;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1601" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-75" value="" style="shape=cross;whiteSpace=wrap;html=1;labelBackgroundColor=#D8F2E5;strokeColor=#333333;strokeWidth=1;fillColor=#FF3333;fontFamily=Myriad Pro Condensed;fontSize=12;align=center;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="254.16999999999996" y="1521" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-76" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="1571" as="sourcePoint" />
+            <mxPoint x="653" y="1571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-77" value="&lt;font color=&quot;#000000&quot;&gt;Tudo precisa esperar pela retransmissão do pacote #3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
+          <mxGeometry x="293" y="1571" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-78" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=Myriad Pro Condensed;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="1652" as="sourcePoint" />
+            <mxPoint x="653" y="1652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpQGIC76I768-fYzRZ0x-79" value="&lt;font color=&quot;#000000&quot;&gt;Tudo precisa esperar pela retransmissão do pacote #3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Myriad Pro Condensed;fontSize=12;fontColor=#E2D7F2;" vertex="1" parent="1">
+          <mxGeometry x="293" y="1652" width="360" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
